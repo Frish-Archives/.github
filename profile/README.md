@@ -4,7 +4,7 @@
 
 ## Forks
 
-来自于：[MenthaMC](https://github.com/MenthaMC)
+Fork于：[MenthaMC](https://github.com/MenthaMC)
  - [Mint](https://github.com/FrishArchvies/Mint)
 
 Fork于：[LuminolMC](https://github.com/LuminolMC/)
