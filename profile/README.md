@@ -1,6 +1,6 @@
-# Frish-Archives
+# FrishArchives
 
-主要里面存的是以前写过包括fork过的代码存档。
+主要里面存的是以前写过包括fork过的代码存档，同时Frish的一些整活代码也会在里面/doge。
 
 ## Forks
 
